@@ -12,6 +12,7 @@
 This repository is a **central hub for all AI research projects and papers** authored by `koo1140`.
 It contains theoretical frameworks, implementations, and experimental results for cutting-edge AI concepts, including:
 
+* **ASI unacheiveable**
 * **AGI redefinitions**
 * **Stateful AI systems**
 * **Selective Active Memory Recall (SAMR)**
