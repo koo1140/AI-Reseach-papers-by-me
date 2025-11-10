@@ -102,7 +102,7 @@ $$ P(ASI) < 10^{-150} $$
 
 ## Full Thread (X)
 
-1. [Tweet 1](https://x.com/AI_Limits/status/...)
+1. [Tweet 1](https://x.com/AI_Limits/status/1987867275454480408?t=Uis03PI9yFHPWF15QcSfRw&s=19)
 
 ---
 
