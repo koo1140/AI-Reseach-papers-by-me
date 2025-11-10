@@ -194,19 +194,26 @@ Recursive self‑improvement and recursive co‑evolution are real mechanisms, b
 
 ## 11. Appendices (selected)
 
-### Appendix A — Formal sketch for the co‑evolution relay time model
-(Extension of Proposition 1, including human focus factor $f_{\\text{focus}}$.)
+### Appendix A — Formal sketch for the co-evolution relay time model
+(Extension of Proposition 1, including human focus factor f_focus.)
 
-Suppose each relay cycle $k$ yields intelligence improvement $\\Delta I_k$ and requires human time $T_{\\text{human},k} = T^{*}_{\\text{human},k}/f_{\\text{focus}}$. With diminishing returns $\\Delta I_k \\le C I_k^{\\beta}$ with $\\beta<1$, total time to reach ceiling becomes:
+Suppose each relay cycle k yields intelligence improvement ΔI_k and requires human time:
 
-$$
-T_{\\text{total}} = \\sum_{k=1}^{K} \\left( T^{*}_{\\text{AI},k} + \\frac{T^{*}_{\\text{human},k}}{f_{\\text{focus}}} + T^{*}_{\\text{validation},k} \\right).
-$$
+T_human,k = T*_human,k / f_focus
 
-Small $f_{\\text{focus}}$ dramatically increases $T_{\\text{total}}$, possibly beyond the astrophysical window.
+With diminishing returns:
+
+ΔI_k ≤ C * I_k^β,  β < 1
+
+Total time to reach ceiling becomes:
+
+T_total = Σ (k=1 to K) [ T*_AI,k + T*_human,k / f_focus + T*_validation,k ]
+
+Small f_focus dramatically increases T_total, possibly beyond the astrophysical window.
 
 ### Appendix B — Worked numerical intuition (thermodynamics & solar ceiling)
-(see previous thermodynamic worked example)
+(See previous thermodynamic worked example)
+
 
 ---
 
